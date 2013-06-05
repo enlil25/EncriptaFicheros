@@ -7,10 +7,10 @@ como MD5,HASH u otro ,fue desarrollado en mis inicios como aprendiz de java
 
 Consideraciones
 ---------------
-*la clase principal es encriptaPrincipal.java y no encriptacion.java
+* la clase principal es encriptaPrincipal.java y no encriptacion.java
 
-*no puede elegirse el nombre del archivo generado,el programa generara un nombre aleatorio
+* no puede elegirse el nombre del archivo generado,el programa generara un nombre aleatorio
 
-*cuando se guarde el archivo encriptado o desencriptado no se debe escribir ningun nombre para el archivo ,solo 
- seleccionar el directorio donde se guardara,la razon se explica en la anterior
+* cuando se guarde el archivo encriptado o desencriptado no se debe escribir ningun nombre para el archivo ,solo 
+  seleccionar el directorio donde se guardara,la razon se explica en la anterior
 
