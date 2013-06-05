@@ -14,3 +14,5 @@ Consideraciones
 * cuando se guarde el archivo encriptado o desencriptado no se debe escribir ningun nombre para el archivo ,solo 
   seleccionar el directorio donde se guardara,la razon se explica en la anterior
 
+* existen 2 imagenes que no fueron usadas : opcion1.jpg y opcion2.gif
+
